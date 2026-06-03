@@ -1,4 +1,4 @@
-this file is created amit singh 
+THIS IS FILE CREATED BY AMIT SINGH 
 # EasyCRUD - Student Registration System
 
 A full-stack web application for student registration with a React frontend and Spring Boot backend.
