@@ -7,7 +7,7 @@ metadata:
 spec:
   containers:
     - name: frontend-app
-      image: 9770495431/easycrud:auto-frontend
+      image: amitsingh3363/cicd-pipeline:auto-frontend
       ports:
         - containerPort: 80
 ---
